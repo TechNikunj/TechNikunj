@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TechNikunj
-- 👀 I’m interested in python/ssh
+- 👀 I’m interested in python/shell-script
 - 🌱 I’m currently learning ansible/jenkins
 
 <!---
